@@ -1,0 +1,11 @@
+development:
+  read:
+    driver: PostgreSQL
+    package: RPostgreSQL
+    database: example
+    encoding: ''
+    pool: ''
+    username: example
+    password: ''
+    host: 2.db.example.com
+    port: 12345
